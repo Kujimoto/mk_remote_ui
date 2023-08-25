@@ -1,0 +1,19 @@
+{
+  "name": "pymt_ui_app",
+  "version": "1.0.0",
+  "description": "Gui project for pymachinetalk.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kazuya Fujimoto",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.3.2"
+  },
+  "dependencies": {
+    "python-shell": "^5.0.0",
+    "request": "^2.88.2"
+  }
+}
